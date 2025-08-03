@@ -1,8 +1,8 @@
 # weekly-dsa
 
 ## Week 1 Problems
-- [Minimum In Rotated Sorted Array](week1/MinimumInRotatedSortedArray.md)
-- [Ruby Second House](week1/RubySecondHouse.md)
+- [Minimum In Rotated Sorted Array](week1/MinimumInSortRotatedArray.md)
+- [Ruby Second House](week1/Ruby Second House.md)
 - [Subarray Sum Equals K](week1/SubarraySumEqualsK.md)
 
 ## Week 2 Problems
