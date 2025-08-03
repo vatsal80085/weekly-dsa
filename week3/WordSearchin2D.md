@@ -39,7 +39,7 @@ Steps:
 
 ### Java Code (LeetCode-Compatible)
 
-```java
+```java 
 class Solution {
     public boolean exist(char[][] board, String word) {
         int rows = board.length;

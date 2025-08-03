@@ -1,7 +1,7 @@
-###Problem Statement: Count Unival Subtrees
+## Problem Statement: Count Unival Subtrees
 the question asked by Google
 
-###Problem Description:
+## Problem Description:
 Scenario:
 In many systems, especially in distributed trees or replicated data structures, it's important to
 find substructures that are uniform. A unival tree (short for universal value tree) is a subtree
@@ -10,7 +10,7 @@ You are given the root of a binary tree, and your task is to count the number of
 subtrees present in the tree.
 A single node is trivially considered a unival subtree.
 
-###Approach Used :
+### Approach Used :
 Used post-order traversal to:
 • Recursively check left and right subtrees
 • Determining if current node forms a unival subtree:
@@ -19,7 +19,7 @@ Used post-order traversal to:
 Maintaining a counter to keep track of valid unival subtrees.
 Then returning the value is the required solution.
 
-###Key Observations
+### Key Observations
 Every leaf node is a unival subtree.
 
 For a non-leaf node to be unival:

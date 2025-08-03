@@ -1,9 +1,9 @@
-##Problem Title: Equal Sum Partition (Asked by Facebook)
-####Problem Statement:
+## Problem Title: Equal Sum Partition (Asked by Facebook)
+#### Problem Statement:
 We are given a multiset (a list that can have duplicate integers). Determine whether it can be
 partitioned into two subsets such that the sum of elements in both subsets is equal.
 
-####Approach
+#### Approach
 -> If total sum is odd, it can’t be split evenly.
 -> Used Dynamic Programming + memoization
 
