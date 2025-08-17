@@ -20,3 +20,9 @@
 - [First Recurring Character in a String](week4/FirstRecurringCharInStr.md)
 - [Search in a Sorted List Without Multiplication, Division, or Bit-Shifts](week4/SearchInSortedList.md)
 - [Count Friend Groups](week4/CountFriendGroups.md)
+
+
+## Week 5 Problems Solutions
+- [Deep Clone a Linked List with Random Pointer](week5/DeepCloneLL.md)
+- [Flood Fill Algorithm](week5/FloodFillAlgo.md)
+- [the Greatest Common Divisor (GCD) of N Numbers](week5/gcd.md)
