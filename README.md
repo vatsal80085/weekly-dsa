@@ -26,3 +26,8 @@
 - [Deep Clone a Linked List with Random Pointer](week5/DeepCloneLL.md)
 - [Flood Fill Algorithm](week5/FloodFillAlgo.md)
 - [the Greatest Common Divisor (GCD) of N Numbers](week5/gcd.md)
+
+## Week 6 Problems Solutions
+- [Problem Title: Minimum Number of Perfect Squares to Sum to N ](week6/MinNoPerfSq)
+- [Nim (misère version) — Determine if First Player Has a Forced Win](week6/nim.md)
+- [Maximum Path Sum Between Any Two Nodes in a Binary Tree](week6/maximumpathsum.md)
