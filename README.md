@@ -28,6 +28,11 @@
 - [the Greatest Common Divisor (GCD) of N Numbers](week5/gcd.md)
 
 ## Week 6 Problems Solutions
-- [Problem Title: Minimum Number of Perfect Squares to Sum to N ](week6/MinNoPerfSq)
+- [Minimum Number of Perfect Squares to Sum to N ](week6/MinNoPerfSq)
 - [Nim (misère version) — Determine if First Player Has a Forced Win](week6/nim.md)
 - [Maximum Path Sum Between Any Two Nodes in a Binary Tree](week6/maximumpathsum.md)
+
+## Week 6 Problems Solutions
+- [Validate Number in a String](week7/ValidateNoInString.md)
+- [Prime Numbers with Multiple Occurrences](week7/PrimeNumMultipOcc.md)
+- [Alternating Add and Subtract (Curried Function)](week7/AlternAddSubtr(Curried).md)
