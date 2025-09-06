@@ -36,3 +36,8 @@
 - [Validate Number in a String](week7/ValidateNoInString.md)
 - [Prime Numbers with Multiple Occurrences](week7/PrimeNumMultipOcc.md)
 - [Alternating Add and Subtract (Curried Function)](week7/AlternAddSubtr(Curried).md)
+
+## Week 8 Problems Solutions
+- [Find the Majority Element](week8/MajorityElement.md)
+- [Reverse Words with Delimiters](week8/ReverseWordsWithDelimiters.md)
+- [Remove edges](week8/RemoveEdges.md)
