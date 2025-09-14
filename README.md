@@ -41,3 +41,8 @@
 - [Find the Majority Element](week8/MajorityElement.md)
 - [Reverse Words with Delimiters](week8/ReverseWordsWithDelimiters.md)
 - [Remove edges](week8/RemoveEdges.md)
+
+## Week 9 Problems Solutions
+- [First Missing Positive Integer](week9/FirstMissingPositive.md)
+- [Swap Even and Odd Bits](week9/SwapEvenOddBits.md)
+- [Autocomplete System](week9/AutocompleteSystem.md)
