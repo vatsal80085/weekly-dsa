@@ -46,3 +46,8 @@
 - [First Missing Positive Integer](week9/FirstMissingPositive.md)
 - [Swap Even and Odd Bits](week9/SwapEvenOddBits.md)
 - [Autocomplete System](week9/AutocompleteSystem.md)
+
+## Week 10 Problems Solutions
+- [Bitwise AND of a Range](week10/BitwiseANDofRange.md)
+- [Knight Survival Probability](week10/KnightSurvivalProbability.md)
+- [Longest Increasing Subsequence (LIS)](week10/LongestIncreasingSubsequenceLIS.md)
