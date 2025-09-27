@@ -51,3 +51,9 @@
 - [Bitwise AND of a Range](week10/BitwiseANDofRange.md)
 - [Knight Survival Probability](week10/KnightSurvivalProbability.md)
 - [Longest Increasing Subsequence (LIS)](week10/LongestIncreasingSubsequenceLIS.md)
+
+## Week 11 Problems Solutions  
+- [Dropbox Question](week11/DropboxQuestion.md)  
+- [Fixed Point in Sorted Array](week11/FixedPointinSortedArray.md)  
+- [Minimum Radio Broadcast Range](week11/MinimumRadioBroadcastRange.md)  
+- [The 24 Game](week11/The24Game.md)  
